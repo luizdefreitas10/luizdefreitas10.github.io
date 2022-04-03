@@ -1,0 +1,94 @@
+#meunome {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 5000;
+    font-style: italic;
+    line-height: 40px;
+
+}
+
+#minhafoto {
+    border-radius: 20%;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    font-style: normal;
+    line-height: 20px;
+}
+
+ul {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 30px;
+    list-style: square;
+}
+
+.edithyp {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+    background-color: darkslategray;
+    color: black;
+    padding: 9px 35px;
+    text-decoration: none;
+}
+
+.editlink {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    font-style: italic;
+    background-color: rgb(21, 54, 54);
+    color: rgb(172, 206, 235);
+    padding: 9px 35px;
+    text-decoration: none;
+}
+
+body {
+    background-color:lightslategray;
+    background-image: url(/Users/luizdefreitas/Downloads/aurora.webp);
+}
+
+#links {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+    font-style: normal;
+    background-color: rgb(137, 156, 190);
+    color: rgb(47, 9, 116);
+    padding: 9px 35px;
+    text-decoration: none;
+    margin: 50px;
+}
+#a, #b, #c {
+    text-decoration:underline;
+    color: rgb(70, 11, 138);
+    font-style: italic;
+    font-size: 25px;
+
+}
+
+div {
+    
+}
+
+.text-centered {
+    text-align: center;
+}
+
+#minhafoto {
+    float: left;
+    margin-right: 30px;
+    padding: 10px;
+    background-color: rgb(37, 99, 128);
+}
+
+.image-container {
+    height: 500px;
+    margin-bottom: 50px;
+}
